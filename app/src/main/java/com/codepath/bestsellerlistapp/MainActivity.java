@@ -17,3 +17,4 @@ public class MainActivity extends AppCompatActivity {
         fragmentTransaction.replace(R.id.content, new BestSellerBooksFragment(), null).commit();
     }
 }
+
